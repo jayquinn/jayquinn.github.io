@@ -3,13 +3,13 @@ layout: page
 title: "CURRICULUM VITAE"
 permalink: /about/
 ---
-<div style="text-align: right">Updated: 20:15 February 24, 2021</div>  
+<div style="text-align: right">Updated: 20:23 February 24, 2021</div>  
 <br/>  
 <br/>  
 
 # <center>Hyeon-jong Yu</center>  
 <center>donydony7@naver.com</center>  
-
+<br/>  
 <br/>  
 
 ### **RESEARCH INTERESTS**   
