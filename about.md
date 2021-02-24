@@ -10,12 +10,14 @@ permalink: /about/
 ∙ Psychometrics  
 ∙ Item Response Theory  
 ∙ Structural Equation Models  
-	   
+
+
 ## EDUCATION  
 M.A., Psychology (in progress), SungKyunKwan University, 2020 - present  
 B.A., Psychology, Hallym University, 2019  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Graduation as the Highest Honors Student 2019  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Admission with the highest distinction 2014  
+
 
 ## WORK EXPERIENCE  
 Psychometrician, Deepside, 2020 - 2021  
@@ -30,12 +32,14 @@ Research Assistant, Hallym University, Department of Psychology, 2016
 Clinical Psychology Practitioner, Hallym University, Student Counseling Center, 2015 - 2016  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Advisor: Chung-kwang Oh  
 
+
 ## ADVANCED TRANING  
 Structural Equation Seminar, Sep - Dec 2018  
 Simulation Study Seminar, Sep - Dec 2017  
 School Counselor Practice, May 2017  
 Item Response Theory Seminar, Sep - Dec 2016  
 Structural Equation Seminar, Jul - Aug 2016  
+
 
 ## SKILLS  
 #### Computer Programming  
@@ -44,6 +48,7 @@ Structural Equation Seminar, Jul - Aug 2016
 #### Certificate  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Survey Analyst (Junior), Statistics Korea, August 23, 2019  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ School Counselor (Grade Ⅱ), Korean Ministry of Education, February 2, 2019  
+
 
 ## AWARDS  
 Full Scholarship, Academic Excellence, Funded by Hallym University, 2014 - 2019  
