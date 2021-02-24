@@ -3,7 +3,7 @@ layout: page
 title: "CURRICULUM VITAE"
 permalink: /about/
 ---
-<div style="text-align: right">Updated: 20:23 February 24, 2021</div>  
+<div style="text-align: right">Updated: February 24, 2021</div>  
 <br/>  
 <br/>  
 
