@@ -4,8 +4,25 @@ title: "About"
 permalink: /about/
 ---
 
-whiteglass is a minimal, responsive Jekyll theme for hackers.
+Hyeon-jong Yu
 
+EDUCATION  
+M.A., Psychology (in progress), SungKyunKwan University, 2020 - present  
+B.A., Psychology, Hallym University, 2019  
+∙ Graduation as the Highest Honors Student 2019  
+∙ Admission with the highest distinction 2014  
+
+WORK EXPERIENCE  
+Psychometrician, Deepside, 2020-2021  
+Research Assistant, Chasy Robotics, 2019  
+Data Analysist , Makeus Corp., 2018  
+Research Assistant, Hallym University, Department of Psychology, 2016
+∙ Development and Validation of the Korean Dysfunctional Depression Scale
+∙ Advisor: Donggi Seo
+Research Assistant, Hallym University, Department of Psychology, 2016
+∙ Development and Validation of K-MMSE-2
+∙ Advisor: Yeonwook Kang
+Clinical Psychology Practitioner, Hallym University, Student Counseling Center, 2015-2016
 ## Installation
 
 Add this line to your Jekyll site's Gemfile:
