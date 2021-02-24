@@ -11,7 +11,7 @@ permalink: /about/
 
 
 
-# <center>Hyeon-jong Yu</center>  
+# <center>**Hyeon-jong Yu**</center>  
 <center>donydony7@naver.com</center>  
 <br/>  
 ### **RESEARCH INTERESTS**   
