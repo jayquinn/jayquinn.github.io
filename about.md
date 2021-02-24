@@ -4,6 +4,7 @@ title: "CURRICULUM VITAE"
 permalink: /about/
 ---
 # <center>Hyeon-jong Yu</center>  
+<center>donydony@naver.com</center>  
 
 
 ### RESEARCH INTERESTS
