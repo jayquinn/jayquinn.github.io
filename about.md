@@ -9,7 +9,7 @@ permalink: /about/
 
 
 # <center>Hyeon-jong Yu</center>  
-<center>donydony@naver.com</center>  
+<center>donydony7@naver.com</center>  
 
 <br/>  
 <br/>  
