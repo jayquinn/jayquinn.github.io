@@ -3,6 +3,8 @@ layout: page
 title: "CURRICULUM VITAE"
 permalink: /about/
 ---
+<div style="text-align: right"> Updated: February 24, 2021 </div>  
+
 # <center>Hyeon-jong Yu</center>  
 <center>donydony@naver.com</center>  
 
@@ -56,4 +58,4 @@ Structural Equation Seminar, Hallym University, Jul - Aug 2016
 Full Scholarship, Academic Excellence, Funded by Hallym University, 2014 - 2019  
 
 
-Updated: February 24, 2021
+
