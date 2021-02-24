@@ -3,7 +3,7 @@ layout: page
 title: "CURRICULM VITAE"
 permalink: /about/
 ---
-<center>Hyeon-jong Yu</center>  
+# <center>Hyeon-jong Yu</center>  
 
 
 ## RESEARCH INTERESTS
