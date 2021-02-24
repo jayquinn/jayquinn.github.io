@@ -3,8 +3,8 @@ layout: page
 title: "About"
 permalink: /about/
 ---
+<center>Hyeon-jong Yu</center>  
 
-Hyeon-jong Yu
 
 RESEARCH INTERESTS  
 ∙ Psychometrics  
@@ -20,7 +20,7 @@ B.A., Psychology, Hallym University, 2019
 WORK EXPERIENCE  
 Psychometrician, Deepside, 2020 - 2021  
 Research Assistant, Chasy Robotics, 2019  
-Data Analysist , Makeus Corp., 2018  
+Data Analysist, Makeus Corp., 2018  
 Research Assistant, Hallym University, Department of Psychology, 2016  
    ∙ Thesis: Development and Validation of the Korean Dysfunctional Depression Scale  
    ∙ Advisor: Donggi Seo  
@@ -30,7 +30,7 @@ Research Assistant, Hallym University, Department of Psychology, 2016
 Clinical Psychology Practitioner, Hallym University, Student Counseling Center, 2015 - 2016  
    ∙ Advisor: Chung-kwang Oh  
 
-ADVANCED TRANING
+ADVANCED TRANING  
 Structural Equation Seminar, Sep - Dec 2018  
 Simulation Study Seminar, Sep - Dec 2017  
 School Counselor Practice, May 2017  
@@ -38,7 +38,7 @@ Item Response Theory Seminar, Sep - Dec 2016
 Structural Equation Seminar, Jul - Aug 2016  
 
 SKILLS  
-Computer Programming: R, SPSS, Mplus
+Computer Programming: R, SPSS, Mplus  
 Certificate  
 	   ∙ Survey Analyst (Junior), Statistics Korea, August 23, 2019.  
 	   ∙ School Counselor (Grade Ⅱ), Korean Ministry of Education, February 2, 2019.  
