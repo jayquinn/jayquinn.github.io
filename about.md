@@ -25,12 +25,24 @@ permalink: /about/
 ∙ Item Response Theory  
 ∙ Structural Equation Models  
 
+
+<br/>  
+<br/>  
+
+
 ### **EDUCATION**  
 ---
 M.A., Psychology (in progress), SungKyunKwan University, 2020 - present  
 B.A., Psychology, Hallym University, 2019  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Graduation as the Highest Honors Student, 2019  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Admission with the highest distinction, 2014  
+
+
+
+<br/>  
+<br/>  
+
+
 
 
 ### **WORK EXPERIENCE**  
@@ -48,6 +60,13 @@ Clinical Psychology Practitioner, Hallym University, Student Counseling Center, 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Advisor: Chung-kwang Oh  
 
 
+
+<br/>  
+<br/>  
+
+
+
+
 ### **ADVANCED TRANING**  
 ---
 Structural Equation Seminar, Hallym University, Sep - Dec 2018  
@@ -55,6 +74,12 @@ Simulation Study Seminar, Hallym University, Sep - Dec 2017
 School Counselor Practice, Naemyeon High School, May 2017  
 Item Response Theory Seminar, Hallym University, Sep - Dec 2016  
 Structural Equation Seminar, Hallym University, Jul - Aug 2016  
+
+
+
+<br/>  
+<br/>  
+
 
 
 ### **SKILLS**  
@@ -65,6 +90,13 @@ Structural Equation Seminar, Hallym University, Jul - Aug 2016
 #### Certificate  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Survey Analyst (Junior), Statistics Korea, August 23, 2019  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ School Counselor (Grade Ⅱ), Korean Ministry of Education, February 2, 2019  
+
+
+
+<br/>  
+<br/>  
+
+
 
 
 ### **AWARDS**  
