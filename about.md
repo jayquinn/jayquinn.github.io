@@ -15,12 +15,14 @@ permalink: /about/
 <br/>  
 
 
-### RESEARCH INTERESTS
+### RESEARCH INTERESTS   
+---
 ∙ Psychometrics  
 ∙ Item Response Theory  
 ∙ Structural Equation Models  
 
 ### EDUCATION  
+---
 M.A., Psychology (in progress), SungKyunKwan University, 2020 - present  
 B.A., Psychology, Hallym University, 2019  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Graduation as the Highest Honors Student, 2019  
@@ -28,6 +30,7 @@ B.A., Psychology, Hallym University, 2019
 
 
 ### WORK EXPERIENCE  
+---
 Psychometrician, Deepside, 2020 - 2021  
 Research Assistant, Chasy Robotics, 2019  
 Data Analysist, Makeus Corp., 2018  
@@ -42,6 +45,7 @@ Clinical Psychology Practitioner, Hallym University, Student Counseling Center, 
 
 
 ### ADVANCED TRANING  
+---
 Structural Equation Seminar, Hallym University, Sep - Dec 2018  
 Simulation Study Seminar, Hallym University, Sep - Dec 2017  
 School Counselor Practice, Naemyeon High School, May 2017  
@@ -50,6 +54,7 @@ Structural Equation Seminar, Hallym University, Jul - Aug 2016
 
 
 ### SKILLS  
+---
 #### Computer Programming  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ R  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Mplus  
@@ -59,6 +64,7 @@ Structural Equation Seminar, Hallym University, Jul - Aug 2016
 
 
 ### AWARDS  
+---
 Full Scholarship, Academic Excellence, Funded by Hallym University, 2014 - 2019  
 
 
