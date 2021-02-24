@@ -14,7 +14,7 @@ permalink: /about/
 
 # <center>Hyeon-jong Yu</center>  
 <center>donydony7@naver.com</center>  
-
+7:52
 <br/>  
 <br/>  
 
@@ -26,8 +26,10 @@ permalink: /about/
 ∙ Structural Equation Models  
 
 
+
 <br/>  
 <br/>  
+
 
 
 ### **EDUCATION**  
