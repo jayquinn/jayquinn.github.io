@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "CURRICULM VITAE"
+title: "CURRICULUM VITAE"
 permalink: /about/
 ---
 # <center>Hyeon-jong Yu</center>  
