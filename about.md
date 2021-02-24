@@ -34,11 +34,11 @@ Clinical Psychology Practitioner, Hallym University, Student Counseling Center, 
 
 
 ## ADVANCED TRANING  
-Structural Equation Seminar, Sep - Dec 2018  
-Simulation Study Seminar, Sep - Dec 2017  
-School Counselor Practice, May 2017  
-Item Response Theory Seminar, Sep - Dec 2016  
-Structural Equation Seminar, Jul - Aug 2016  
+Structural Equation Seminar, Hallym University, Sep - Dec 2018  
+Simulation Study Seminar, Hallym University, Sep - Dec 2017  
+School Counselor Practice, Naemyeon High School, May 2017  
+Item Response Theory Seminar, Hallym University, Sep - Dec 2016  
+Structural Equation Seminar, Hallym University, Jul - Aug 2016  
 
 
 ## SKILLS  
