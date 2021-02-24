@@ -6,6 +6,10 @@ permalink: /about/
 <div style="text-align: right">Updated: February 24, 2021</div>  
   
 
+<br/>  
+<br/>  
+
+
 
 
 # <center>Hyeon-jong Yu</center>  
@@ -15,13 +19,13 @@ permalink: /about/
 <br/>  
 
 
-### RESEARCH INTERESTS   
+### **RESEARCH INTERESTS**   
 ---
 ∙ Psychometrics  
 ∙ Item Response Theory  
 ∙ Structural Equation Models  
 
-### EDUCATION  
+### **EDUCATION**  
 ---
 M.A., Psychology (in progress), SungKyunKwan University, 2020 - present  
 B.A., Psychology, Hallym University, 2019  
@@ -29,7 +33,7 @@ B.A., Psychology, Hallym University, 2019
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Admission with the highest distinction, 2014  
 
 
-### WORK EXPERIENCE  
+### **WORK EXPERIENCE**  
 ---
 Psychometrician, Deepside, 2020 - 2021  
 Research Assistant, Chasy Robotics, 2019  
@@ -44,7 +48,7 @@ Clinical Psychology Practitioner, Hallym University, Student Counseling Center, 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Advisor: Chung-kwang Oh  
 
 
-### ADVANCED TRANING  
+### **ADVANCED TRANING**  
 ---
 Structural Equation Seminar, Hallym University, Sep - Dec 2018  
 Simulation Study Seminar, Hallym University, Sep - Dec 2017  
@@ -53,7 +57,7 @@ Item Response Theory Seminar, Hallym University, Sep - Dec 2016
 Structural Equation Seminar, Hallym University, Jul - Aug 2016  
 
 
-### SKILLS  
+### **SKILLS**  
 ---
 #### Computer Programming  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ R  
@@ -63,7 +67,7 @@ Structural Equation Seminar, Hallym University, Jul - Aug 2016
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ School Counselor (Grade Ⅱ), Korean Ministry of Education, February 2, 2019  
 
 
-### AWARDS  
+### **AWARDS**  
 ---
 Full Scholarship, Academic Excellence, Funded by Hallym University, 2014 - 2019  
 
