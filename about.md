@@ -38,8 +38,10 @@ Item Response Theory Seminar, Sep - Dec 2016
 Structural Equation Seminar, Jul - Aug 2016  
 
 # SKILLS  
-## Computer Programming: R, SPSS, Mplus  
-## Certificate  
+#### Computer Programming  
+	   ∙ R
+	   ∙ Mplus
+#### Certificate  
 	   ∙ Survey Analyst (Junior), Statistics Korea, August 23, 2019.  
 	   ∙ School Counselor (Grade Ⅱ), Korean Ministry of Education, February 2, 2019.  
 
