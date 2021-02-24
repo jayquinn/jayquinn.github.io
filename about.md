@@ -52,3 +52,6 @@ Structural Equation Seminar, Hallym University, Jul - Aug 2016
 
 ### AWARDS  
 Full Scholarship, Academic Excellence, Funded by Hallym University, 2014 - 2019  
+
+
+Updated: February 24, 2021
