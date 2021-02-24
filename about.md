@@ -6,8 +6,8 @@ permalink: /about/
 <div style="text-align: right">Updated: February 24, 2021</div>  
   
 
-<br/>  
-<br/>  
+<br/>   
+<br/>   
 
 
 
