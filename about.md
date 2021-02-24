@@ -6,12 +6,13 @@ permalink: /about/
 # <center>Hyeon-jong Yu</center>  
 <center>donydony@naver.com</center>  
 
+<br/>  
+
 
 ### RESEARCH INTERESTS
 ∙ Psychometrics  
 ∙ Item Response Theory  
 ∙ Structural Equation Models  
-
 
 ### EDUCATION  
 M.A., Psychology (in progress), SungKyunKwan University, 2020 - present  
