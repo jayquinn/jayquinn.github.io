@@ -59,6 +59,6 @@ Structural Equation Seminar, Hallym University, Jul - Aug 2016
 ---  
 Dean’s List (7 semesters), Hallym University, 2014 - 2017  
 Full Scholarship, Academic Excellence, Funded by Hallym University, 2014 - 2019  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Admission with the highest distinction, 2014  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Admission with the highest distinction
 
 
