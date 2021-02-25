@@ -29,7 +29,7 @@ B.A., Psychology, Hallym University, 2019
 ---  
 Psychometrician, Deepside, 2020 - 2021  
 Research Assistant, Chasy Robotics, 2019  
-Data Analysist, Makeus Corp., 2018  
+Data Analyst, Makeus Corp., 2018  
 Research Assistant, Hallym University, Department of Psychology, 2016  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Thesis: Development and Validation of the Korean Dysfunctional Depression Scale  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Advisor: Donggi Seo  
