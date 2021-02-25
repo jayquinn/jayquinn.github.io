@@ -21,8 +21,7 @@ permalink: /about/
 ### **EDUCATION**  
 ---  
 M.A., Psychology (in progress), SungKyunKwan University, 2020 - present  
-B.A., Psychology, Hallym University, 2019  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Graduation as the Highest Honors Student  
+B.A., *with Highest Honors*, Psychology, Hallym University, 2019  
 <br/>  
 ### **WORK EXPERIENCE**  
 ---  
