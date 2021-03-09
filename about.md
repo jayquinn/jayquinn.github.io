@@ -7,7 +7,7 @@ permalink: /about/
 <br/>  
 <br/>  
 
-# <center>Hyeon-jong Yu</center>  
+# <center>Hyeonjong Yu</center>  
 <center>donydony7@naver.com</center>  
 <br/>  
 <br/>  
@@ -20,7 +20,7 @@ permalink: /about/
 <br/>  
 ### **EDUCATION**  
 ---  
-M.A., Psychology (in progress), SungKyunKwan University, 2020 - present  
+M.A. Candidate, Psychology, SungKyunKwan University, 2020 - present  
 B.A., *with Highest Honors*, Psychology, Hallym University, 2019  
 <br/>  
 ### **WORK EXPERIENCE**  
