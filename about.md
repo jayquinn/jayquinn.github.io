@@ -20,7 +20,7 @@ permalink: /about/
 <br/>  
 ### **EDUCATION**  
 ---  
-M.A. Candidate, Psychology, SungKyunKwan University, 2020 - present  
+M.A. Candidate, Quantitative Psychology, SungKyunKwan University, 2020 - present  
 B.A., *with Highest Honors*, Psychology, Hallym University, 2019  
 <br/>  
 ### **WORK EXPERIENCE**  
