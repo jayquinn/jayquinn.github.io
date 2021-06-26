@@ -49,6 +49,7 @@ Structural Equation Seminar, Hallym University, Jul - Aug 2016
 ---  
 #### Computer Programming  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ R  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Python  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Mplus  
 #### Certificate  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Survey Analyst (Junior), Statistics Korea, August 23, 2019  
