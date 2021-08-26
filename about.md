@@ -25,7 +25,7 @@ B.A., *with Highest Honors*, Psychology, Hallym University, 2019
 <br/>  
 ### **WORK EXPERIENCE**  
 ---  
-Research Assistant, Human Brain Research & Consulting, 2021
+Research Assistant, Human Brain Research & Consulting, 2021  
 Psychometrician, Deepside, 2020 - 2021  
 Research Assistant, Chasy Robotics, 2019  
 Data Analyst, Makeus Corp., 2018  
