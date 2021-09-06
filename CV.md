@@ -15,7 +15,7 @@ permalink: /about/
 ### **RESEARCH INTERESTS**   
 ---  
 ∙ Psychometrics  
-∙ Machine Learning in Psychology
+∙ Machine Learning in Psychological Research
 <br/>  
 ### **EDUCATION**  
 ---  
