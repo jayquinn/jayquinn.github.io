@@ -15,8 +15,7 @@ permalink: /about/
 ### **RESEARCH INTERESTS**   
 ---  
 ∙ Psychometrics  
-∙ Item Response Theory  
-∙ Structural Equation Models  
+∙ Machine Learning in Psychology
 <br/>  
 ### **EDUCATION**  
 ---  
@@ -28,7 +27,7 @@ B.A., *with Highest Honors*, Psychology, Hallym University, 2019
 Research Assistant, Human Brain Research & Consulting, 2021  
 Psychometrician, Deepside, 2020 - 2021  
 Research Assistant, Chasy Robotics, 2019  
-Data Analyst, Makeus Corp., 2018  
+Research Assistant, Makeus Corp., 2018  
 Research Assistant, Hallym University, Department of Psychology, 2016  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Thesis: Development and Validation of the Korean Dysfunctional Depression Scale  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Advisor: Donggi Seo  
@@ -51,7 +50,7 @@ Structural Equation Seminar, Hallym University, Jul - Aug 2016
 #### Computer Programming  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ R  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Python  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Mplus  
+
 #### Certificate  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Survey Analyst (Junior), Statistics Korea, August 23, 2019  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ School Counselor (Grade Ⅱ), Korean Ministry of Education, February 2, 2019  
