@@ -37,6 +37,12 @@ Research Assistant, Hallym University, Department of Psychology, 2016
 Clinical Psychology Practitioner, Hallym University, Student Counseling Center, 2015 - 2016  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Advisor: Chung-kwang Oh  
 <br/>  
+### **TEACHING EXPERIENCE**  
+---  
+Teaching Assistant, Multivariate Analysis and Statistical Learning, Sungkyunkwan University, Mar - Jun 2021
+Teaching Assistant, Statistical Analysis in Psychology, Sungkyunkwan University, Sep - Dec 2020
+Teaching Assistant, Psychological Statistics, Hallym University, Sep - Dec 2018
+<br/>  
 ### **ADVANCED TRANING**  
 ---  
 Structural Equation Seminar, Hallym University, Sep - Dec 2018  
