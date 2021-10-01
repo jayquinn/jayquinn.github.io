@@ -39,9 +39,9 @@ Clinical Psychology Practitioner, Hallym University, Student Counseling Center, 
 <br/>  
 ### **TEACHING EXPERIENCE**  
 ---  
-Teaching Assistant, Multivariate Analysis and Statistical Learning, Sungkyunkwan University, Mar - Jun 2021
-Teaching Assistant, Statistical Analysis in Psychology, Sungkyunkwan University, Sep - Dec 2020
-Teaching Assistant, Psychological Statistics, Hallym University, Sep - Dec 2018
+Teaching Assistant, Multivariate Analysis and Statistical Learning, Sungkyunkwan University, Mar - Jun 2021  
+Teaching Assistant, Statistical Analysis in Psychology, Sungkyunkwan University, Sep - Dec 2020  
+Teaching Assistant, Psychological Statistics, Hallym University, Sep - Dec 2018  
 <br/>  
 ### **ADVANCED TRANING**  
 ---  
