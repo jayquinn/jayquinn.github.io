@@ -15,7 +15,7 @@ permalink: /about/
 ### **RESEARCH INTERESTS**   
 ---  
 ∙ Psychometrics  
-∙ Statistical Learning in Psychological Research
+∙ Statistical Learning in Behavioral Science Research
 <br/>  
 ### **EDUCATION**  
 ---  
