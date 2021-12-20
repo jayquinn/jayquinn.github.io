@@ -56,6 +56,7 @@ Structural Equation Seminar, Hallym University, Jul - Aug 2016
 #### Computer Programming  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ R  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Python  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ SQL
 
 #### Certificate  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Advanced Data Analytics Semi-Professional, Korea Data Agency, December 3, 2021  
