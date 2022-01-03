@@ -59,7 +59,7 @@ Structural Equation Seminar, Hallym University, Jul - Aug 2016
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ SQL
 
 #### Certificate  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Engineer Big Data Analytics, Statistics Korea & Korean Ministry of Science and ICT, December 31, 2021  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Engineer Big Data Analytics, Korean Ministry of Science and ICT & Statistics Korea, December 22, 2021  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Advanced Data Analytics Semi-Professional, Korea Data Agency, December 3, 2021  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Survey Analyst (Junior), Statistics Korea, August 23, 2019  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ School Counselor (Grade Ⅱ), Korean Ministry of Education, February 2, 2019  
