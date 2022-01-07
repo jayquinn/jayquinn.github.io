@@ -56,7 +56,6 @@ Structural Equation Seminar, Hallym University, Jul - Aug 2016
 #### Computer Programming  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ R  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Python  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ SQL
 
 #### Certificate  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Engineer Big Data Analytics, Korean Ministry of Science and ICT & Statistics Korea, December 22, 2021  
