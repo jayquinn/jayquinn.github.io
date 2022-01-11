@@ -27,7 +27,9 @@ B.A., *with Highest Honors*, Psychology, Hallym University, 2019
 Research Assistant, Human Brain Research & Consulting, 2021  
 Psychometrician, Deepside, 2020 - 2021  
 Research Assistant, Chasy Robotics, 2019  
-Research Assistant, Makeus Corp., 2018  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Data Management for Autonomous Driving Research
+Data Manager(Junior), Makeus Corp., 2018  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Product Data Management
 Research Assistant, Hallym University, Department of Psychology, 2016  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Development and Validation of the Korean Dysfunctional Depression Scale  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Advisor: Donggi Seo  
