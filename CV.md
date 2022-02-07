@@ -45,7 +45,7 @@ Teaching Assistant, Multivariate Analysis and Statistical Learning, Sungkyunkwan
 Teaching Assistant, Statistical Analysis in Psychology, Sungkyunkwan University, Sep - Dec 2020  
 Teaching Assistant, Psychological Statistics, Hallym University, Sep - Dec 2018  
 <br/>  
-### **ADDITIONAL TRAINING**  
+### **ADVANCED TRAINING**  
 ---  
 Time Series Analysis Seminar, Sungkyunkwan University, Summer 2020  
 Multilevel Modeling Seminar, Sungkyunkwan University, Winter 2019 - 2020  
