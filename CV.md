@@ -3,7 +3,7 @@ layout: page
 title: "CURRICULUM VITAE"
 permalink: /about/
 ---
-<div style="text-align: right">Updated: December 31, 2021</div>  
+<div style="text-align: right">Updated: February 14, 2022</div>  
 <br/>  
 <br/>  
 
@@ -24,8 +24,8 @@ B.A., *with Highest Honors*, Psychology, Hallym University, 2019
 <br/>  
 ### **WORK EXPERIENCE**  
 ---  
-Research Assistant, Human Brain Research & Consulting, 2021  
-Psychometrician, Deepside, 2020 - 2021  
+Research Assistant, Human Brain Research & Consulting, 2021 - 2022  
+Psychometrician, Deepside, 2020 - 2022  
 Research Assistant, Chasy Robotics, 2019  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∙ Data Management for Autonomous Driving Research  
 Data Manager(Junior), Makeus Corp., 2018  
@@ -41,18 +41,19 @@ Clinical Psychology Practitioner, Hallym University, Student Counseling Center, 
 <br/>  
 ### **TEACHING EXPERIENCE**  
 ---  
-Teaching Assistant, Multivariate Analysis and Statistical Learning, Sungkyunkwan University, Mar - Jun 2021  
-Teaching Assistant, Statistical Analysis in Psychology, Sungkyunkwan University, Sep - Dec 2020  
-Teaching Assistant, Psychological Statistics, Hallym University, Sep - Dec 2018  
+Teaching Assistant, Structural Equation Modeling, Sungkyunkwan University, 2022 Spring    
+Teaching Assistant, Multivariate Analysis and Statistical Learning, Sungkyunkwan University, 2021 Spring  
+Teaching Assistant, Statistical Analysis in Psychology, Sungkyunkwan University, 2020 Fall 
+Teaching Assistant, Psychological Statistics, Hallym University, 2018 Fall  
 <br/>  
 ### **ADVANCED TRAINING**  
 ---  
-Time Series Analysis Seminar, Sungkyunkwan University, Summer 2020  
-Multilevel Modeling Seminar, Sungkyunkwan University, Winter 2019 - 2020  
-Simulation Study Seminar, Hallym University, Sep - Dec 2017  
-School Counselor Practice, Naemyeon High School, May 2017  
-Item Response Theory Seminar, Hallym University, Sep - Dec 2016  
-Structural Equation Seminar, Hallym University, Jul - Aug 2016  
+Time Series Analysis Seminar, Sungkyunkwan University, 2020 Summer   
+Multilevel Modeling Seminar, Sungkyunkwan University, 2019 - 2020 Winter  
+Simulation Study Seminar, Hallym University, 2017 - 2018 Winter  
+School Counselor Practice, Naemyeon High School, 2017 May  
+Item Response Theory Seminar, Hallym University, 2016 - 2017 Winter  
+Structural Equation Modeling Seminar, Hallym University, 2016 Summer  
 <br/>  
 ### **SKILLS**  
 ---  
