@@ -43,7 +43,7 @@ Clinical Psychology Practitioner, Hallym University, Student Counseling Center, 
 ---  
 Teaching Assistant, Structural Equation Modeling, Sungkyunkwan University, 2022 Spring    
 Teaching Assistant, Multivariate Analysis and Statistical Learning, Sungkyunkwan University, 2021 Spring  
-Teaching Assistant, Statistical Analysis in Psychology, Sungkyunkwan University, 2020 Fall 
+Teaching Assistant, Statistical Analysis in Psychology, Sungkyunkwan University, 2020 Fall  
 Teaching Assistant, Psychological Statistics, Hallym University, 2018 Fall  
 <br/>  
 ### **ADVANCED TRAINING**  
