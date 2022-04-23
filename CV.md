@@ -69,7 +69,7 @@ Structural Equation Modeling Seminar, Hallym University, 2016 Summer
 <br/>  
 ### **HONERS & AWARDS**  
 ---  
-Participation Award(Poster Presentation), 심리검사 점수 부여 방식에 따른 검사점수와 분류 결과 비교, Korean Society of Psychological Measurement and Assessment, 2022 Spring
+Participation Award(Poster Presentation), 심리검사 점수 부여 방식에 따른 검사점수와 분류 결과 비교, Korean Society of Psychological Measurement and Assessment, 2022 Spring  
 Research Scholarships, Brain Korea 21 Plus Program, 2021 - 2022  
 Dean’s List (7 semesters), Hallym University, 2014 - 2017  
 Full Scholarship, Academic Excellence, Funded by Hallym University, 2014 - 2019  
