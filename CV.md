@@ -21,7 +21,7 @@ B.A., *with Highest Honors*, Psychology, Hallym University, 2019
 ### **PUBLICATIONS**  
 ---  
 **Yu, H.**, Jahng, S. (2023). Correlations and Classification Agreements among K-MMSE Test Scores based on Different Scoring Methods. *The Korean Journal of Developmental Psychology 36*(3), 113-136.  
-Park, K., **Yu, H.**, Chang, H., Lee, S. & Lee, E. (2022). A study on the Validation of the Korean Version of the Pornography Use Motivation Scale (K-PUMS). *The Korean journal of Health Psychology, 27*(5), 787-812.
+Park, K., **Yu, H.**, Chang, H., Lee, S. & Lee, E. (2022). A study on the Validation of the Korean Version of the Pornography Use Motivation Scale (K-PUMS). *The Korean Journal of Health Psychology, 27*(5), 787-812.
 <br/>  
 ### **WORK EXPERIENCE**  
 ---  
