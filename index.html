@@ -3,13 +3,14 @@
 # Edit whiteglass' home layout instead if you want to make some changes.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+permalink: /
 ---
 
----
-layout: home
----
 <ul>
   {% for post in site.posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})</li>
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      ({{ post.date | date: "%Y-%m-%d" }})
+    </li>
   {% endfor %}
 </ul>
