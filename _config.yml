@@ -30,7 +30,7 @@ exclude:
   - jekyll-whiteglass.gemspec
   - screenshot.png
   - vendor
-
+  - project-boronia
 # Social media
 twitter_username:
 twitter_image:
@@ -52,3 +52,4 @@ excerpt_separator: "<!-- more -->"
 # Outputting
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:n능
+
