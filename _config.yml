@@ -16,7 +16,7 @@
 title: Daily Apartment
 author: Jack
 description: There is no more miserable human being than one in whom nothing is habitual but indecision.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jayquinn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
