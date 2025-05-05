@@ -30,7 +30,10 @@ exclude:
   - jekyll-whiteglass.gemspec
   - screenshot.png
   - vendor
-  - project-boronia
+  - project-boronia/projects/**/data/**
+  - project-boronia/projects/**/src/**
+  - project-boronia/projects/**/models/**
+  - project-boronia/projects/**/notebooks/**
 # Social media
 twitter_username:
 twitter_image:
