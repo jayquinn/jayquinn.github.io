@@ -3,7 +3,7 @@
 main:
   - title: "Rooms"
     url: /
-  - title: "About"
-    url: /about/
   - title: Projects
     url: /project-boronia/
+  - title: "About"
+    url: /about/
