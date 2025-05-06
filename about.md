@@ -3,8 +3,9 @@ layout: page
 title: "About"
 permalink: /about/
 ---
+
 <img
-  src="{{ '/assets/images/profile.jpg' | relative_url }}"
+  src="/assets/images/profile.jpg"
   alt="프로필 사진"
   style="float:left; max-width:120px; height:auto; margin-right:1em; margin-bottom:0.5em;"
 >
