@@ -50,6 +50,12 @@ plugins:
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true       # 블록 HTML 허용
+  parse_span_html: true        # 인라인 HTML 허용
+  typographer: false           # 스마트 인용 비활성화
+  smart_quotes: ["apos","apos","quot","quot"]
 excerpt_separator: "<!-- more -->"
 
 # Outputting
