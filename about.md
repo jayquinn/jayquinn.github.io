@@ -8,7 +8,7 @@ permalink: /about/
   alt="프로필 사진"
   style="float:left; max-width:120px; height:auto; margin-right:1em; margin-bottom:0.5em;"
 >
-## 소개
+
 유현종(劉賢鍾, Hyeonjong Yu)
 
 좋은 의사결정을 돕는 일을 합니다.
