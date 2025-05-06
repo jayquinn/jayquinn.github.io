@@ -3,6 +3,8 @@ layout: page
 title: "About"
 permalink: /about/
 ---
+![프로필 사진](/assets/images/profile.jpg)
+
 ## 소개
 유현종(劉賢鍾, Hyeonjong Yu)
 
