@@ -4,7 +4,8 @@ title: "About"
 permalink: /about/
 ---
 
-![프로필](/assets/images/profile.jpg){: style="float:left; max-width:120px; height:auto; margin-right:1em; margin-bottom:0.5em;" }
+![프로필 사진](/assets/images/profile.jpg){: style="display:block; margin:0 auto; width:50%; max-width:300px; height:auto; margin-bottom:1em;" }
+
 
 유현종(劉賢鍾, Hyeonjong Yu)
 
